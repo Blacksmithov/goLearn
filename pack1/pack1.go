@@ -1,5 +1,5 @@
 package pack1
 
-func Fmt() string {
+func Tre() string {
 	return "ggggg"
 }
